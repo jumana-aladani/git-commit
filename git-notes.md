@@ -1,3 +1,3 @@
-#git notes
+#Git Notes
 
-A commit is a snapshot of my whole projrcts at one moment.
+A commit is a snapshot of my whole project at one moment.

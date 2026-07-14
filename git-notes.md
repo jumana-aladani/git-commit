@@ -1,2 +1,3 @@
-Unable to initialize device PRN
-Unable to initialize device PRN
+#git notes
+
+A commit is a snapshot of my whole projrcts at one moment.
